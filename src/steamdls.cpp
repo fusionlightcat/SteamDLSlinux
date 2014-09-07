@@ -162,7 +162,7 @@ main(void){
 	
 	//Ausführen des Programms
 	check(path, interval);	
-	
+	system("halt");
 	return 0;
 	exit;
 	}
